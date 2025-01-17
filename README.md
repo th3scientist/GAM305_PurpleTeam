@@ -1,8 +1,8 @@
-GAM305_PurpleTeam Project Log Assignments
+# GAM305_PurpleTeam Project Log Assignments
 
-Scenario: First Person Simulation
+## Scenario: First Person Simulation
 
-Brainstorm:
+## Brainstorm:
 Theme: Dungeon Crawler Action Game
 Pickups: Bow, Sword, and arrow pickups in the level
 Mechanical Pulley Elevators
@@ -14,7 +14,14 @@ Slimes will split apart when killed
 Schedule: Weekly meetings every Wednesday
 Preferred Communcation: Discord
 
-Team Roles (Preliminary)
+## Team Roles (Preliminary)
+
+Team Lead: Matt Fiske
 
 Game Programming Lead: Bug McCormick
+
 Level Design: Robert Clough
+
+## Development Timeline:
+
+Alpha Build: Level block out, Player Character Functionality, Enemy Character Functionality, Teleporter Functionality, Elevator Functionality, Bow, Sword, and Arrow pickups functionality, Game Lighting Objects, Vision Spell Functionality
