@@ -28,7 +28,7 @@
 
 ### Alpha Build:
 #### Phase 1: 
-* Level block out
+* Level Block Out
 * Player Character Functionality
 * Enemy Functionality
 * Bow, Sword, and Arrow pickups functionality
@@ -39,7 +39,7 @@
 * Game Lighting Objects
 * Vision Spell Functionality
 * Slime Enemy Split Apart Feature
-* Level object and enemy placement
+* Level Object and Enemy Placement
 
 ### Beta Build:
 * Player 3D Model
@@ -47,12 +47,12 @@
   * Skeleton Model
   * Slime Model
   * Rat Model
-* Models for sword, bow, and arrow pickups
-* Level lighting
-* Level texturing
-* Elevator models/art
-* Teleporter effects/art
-* Main Menu functionality
+* Models for Sword, Bow, and Arrow pickups
+* Level Lighting
+* Level Texturing
+* Elevator Models/art
+* Teleporter Effects/art
+* Main Menu Functionality
 * UI/HUD Art
 * Vision Spell Effects
 
@@ -60,10 +60,5 @@
 * Player Animations 
 * Enemy Animations
 * Main Menu Art
-* Player Sounds
-  * Attack Sounds
-  * Walk Sounds
-  * Run Sounds
-* Level lighting pass 2
-* Level texturing pass 2
-* Level sounds pass
+* Level Lighting Pass 2
+* Level Texturing Pass 2
