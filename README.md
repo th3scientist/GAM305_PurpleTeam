@@ -12,11 +12,13 @@
 * Slimes will split apart when killed
 
 
-## Team Roles (Preliminary)
+## Team Roles
 
 * Team Lead: Matt Fiske
 * Game Programming Lead: Bug McCormick
 * Level Design: Robert Clough
+* Artist: Donald Long
+* UI/UX Programmer: Matt Fiske
 #### Schedule: Weekly meetings every Wednesday
 #### Preferred Communcation: Discord
 
