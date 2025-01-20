@@ -19,6 +19,7 @@
 * Level Design: Robert Clough
 * Artist: Donald Long
 * UI/UX Programmer: Matt Fiske
+* Game Programmer: Austen Carroll
 #### Schedule: Weekly meetings every Wednesday
 #### Preferred Communcation: Discord
 
