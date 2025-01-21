@@ -46,7 +46,6 @@
 * Main Menu Functionality
 
 ### Beta Build:
-* Player 3D Model
 * Enemy 3D Models
   * Skeleton Model
   * Slime Model
