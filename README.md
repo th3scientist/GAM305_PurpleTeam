@@ -43,6 +43,7 @@
 * Vision Spell Functionality
 * Slime Enemy Split Apart Feature
 * Level Object and Enemy Placement
+* Main Menu Functionality
 
 ### Beta Build:
 * Player 3D Model
@@ -55,7 +56,6 @@
 * Level Texturing
 * Elevator Models/art
 * Teleporter Effects/art
-* Main Menu Functionality
 * UI/HUD Art
 * Vision Spell Effects
 
