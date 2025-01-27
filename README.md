@@ -15,11 +15,12 @@
 ## Team Roles
 
 * Team Lead: Matt Fiske
-* Game Programming Lead: Bug McCormick
+* Game Programmer: Bug McCormick
+* Game Programmer: Austen Carroll
 * Level Design: Robert Clough
 * Artist: Donald Long
 * UI/UX Programmer: Matt Fiske
-* Game Programmer: Austen Carroll
+  
 #### Schedule: Weekly meetings every Wednesday
 #### Preferred Communcation: Discord
 
