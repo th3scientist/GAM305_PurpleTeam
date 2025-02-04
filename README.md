@@ -135,3 +135,18 @@ Bugs will be tracked using a shared google sheet which contains our feature matr
   * View Credits
   * Exit Game
   * Start Game
+
+
+### Project Log Team Reflection:
+#### What parts of the testing process did the team perceive to go well?
+Communication between the level designer and game programmer in terms of player height went well. 
+#### How were bugs identified and corrected?
+The level designer was able to identify bugs with the player's height as they traversed the level. They were able to communicate with the game programmer to rectify those bugs swiftly and fix them so that the level design process could continue.
+#### In terms of the QA and testing process, what would you do differently to improve the process?
+To improve our QA and testing process, we could improve the communication between programmers to better understand each other's work schedules and deadlines. By improving our understanding of the work timeline, we could allocate more time for QA and testing.
+#### What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+The feature matrix spreadsheet was a useful tool for tracking our progress as development progresses, as we go forward we should make sure it's updated frequently so that developers understand which tasks are complete and which are yet to be finished.
+#### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+There weren't any tools we used that we found to be unhelpful, our only issue was making use of the tools we have successfully and to a full extent.
+#### How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+The team's approach was to plan out much of the game before work began using a feature matrix on google spreadsheets. This approach gave us a comprehensive overview of the project, allowing us to schedule and assign tasks for later development stages. Since we did not achieve our alpha goals, going forward we plan to more rigorously use these tools. By maintaining constant communication and scheduling our tasks we hope to achieve our production goals for the beta and final builds.
