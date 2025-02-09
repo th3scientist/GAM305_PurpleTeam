@@ -148,5 +148,17 @@ To improve our QA and testing process, we could improve the communication betwee
 The feature matrix spreadsheet was a useful tool for tracking our progress as development progresses, as we go forward we should make sure it's updated frequently so that developers understand which tasks are complete and which are yet to be finished.
 #### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 There weren't any tools we used that we found to be unhelpful, our only issue was making use of the tools we have successfully and to a full extent.
-#### How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
-The team's approach was to plan out much of the game before work began using a feature matrix on google spreadsheets. This approach gave us a comprehensive overview of the project, allowing us to schedule and assign tasks for later development stages. Since we did not achieve our alpha goals, going forward we plan to more rigorously use these tools. By maintaining constant communication and scheduling our tasks we hope to achieve our production goals for the beta and final builds.
+#### How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+The team's approach was to plan out much of the game before work began using a feature matrix on google spreadsheets. This approach gave us a comprehensive overview of the project, allowing us to schedule and assign tasks for later development stages. Since we did not achieve our alpha goals, going forward we plan to use these tools more rigorously. We hope to achieve our production goals for the beta and final builds by maintaining constant communication and scheduling our tasks.
+
+### Project Log Team Reflection Week 6:
+### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+(Rob)Overall, team communication was better this week, and even though some goals were not met, we each made sure to have each other's backs and keep morale high.
+### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+(rob) Well, from my standpoint, the lack of a lead artist hurt, as I hadn't expected to go into the art direction at all, so that threw me off quite a bit
+###How were the previous evaluations integrated into this latest stage?
+###What would you do differently to improve the collaboration or development process?
+(Rob) I would make sure my teams know earlier that I'm struggling with both the project and my other personal duties and that help would be appreciated
+###Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+(rob) i think this would be the same as last week, knowing what the actual tasks are in the matrix was superb, I can't think of any tools that were not helpful 
+###Identify the completed stage of development of the intended Beta and address the project schedule to meet the Final Release development deadline
