@@ -137,7 +137,7 @@ Bugs will be tracked using a shared google sheet which contains our feature matr
   * Start Game
 
 
-### Project Log Team Reflection:
+### Project Log Team Reflection Week 4:
 #### What parts of the testing process did the team perceive to go well?
 Communication between the level designer and game programmer in terms of player height went well. 
 #### How were bugs identified and corrected?
@@ -151,14 +151,17 @@ There weren't any tools we used that we found to be unhelpful, our only issue wa
 #### How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 The team's approach was to plan out much of the game before work began using a feature matrix on google spreadsheets. This approach gave us a comprehensive overview of the project, allowing us to schedule and assign tasks for later development stages. Since we did not achieve our alpha goals, going forward we plan to use these tools more rigorously. We hope to achieve our production goals for the beta and final builds by maintaining constant communication and scheduling our tasks.
 
-### Project Log Team Reflection Week 6:
+### Project Log Team Reflection Week 5:
 ### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-(Rob)Overall, team communication was better this week, and even though some goals were not met, we each made sure to have each other's backs and keep morale high.
+Communication got a lot better during this last stage, and we really focused on keeping the team's spirits up. Incorporating textures into the project really helped increase motivation. Also, we worked hard to keep everyone in the loop about what’s happening now and what’s coming up, while making sure we didn’t interfere with each other’s work.
 ### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-(rob) Well, from my standpoint, the lack of a lead artist hurt, as I hadn't expected to go into the art direction at all, so that threw me off quite a bit
-###How were the previous evaluations integrated into this latest stage?
-###What would you do differently to improve the collaboration or development process?
-(Rob) I would make sure my teams know earlier that I'm struggling with both the project and my other personal duties and that help would be appreciated
-###Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-(rob) i think this would be the same as last week, knowing what the actual tasks are in the matrix was superb, I can't think of any tools that were not helpful 
-###Identify the completed stage of development of the intended Beta and address the project schedule to meet the Final Release development deadline
+The main challenge has been life circumstances leading to complications, particularly during the weekend. However, the team is feeling positive about the next week and is planning to improve their time management to keep making steady progress.
+### How were the previous evaluations integrated into this latest stage?
+The team has placed a strong emphasis on honesty and transparency, ensuring that everyone is kept up to date on each step of the project, even when it does not directly relate to their specific roles. This approach has significantly improved coordination and workflow.
+### What would you do differently to improve the collaboration or development process?
+The team collectively agrees that establishing solid communication and openness from the very beginning is crucial. Waiting too long to implement clear communication practices can lead to significant issues later in development.
+### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+There were still no tools that were considered to be of no use. The main issue was making sure that the team used the tools available to them as effectively as possible.
+### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+The team has finished implementing textures and has worked on improving communication strategies at this point. Moving forward, the focus will be on addressing time management issues and ensuring that all tasks align with the final release deadline. The team is focused on keeping things organized and making the most of our time to stick to the project’s development schedule.
+
