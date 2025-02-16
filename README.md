@@ -165,3 +165,15 @@ There were still no tools that were considered to be of no use. The main issue w
 ### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 The team has finished implementing textures and has worked on improving communication strategies at this point. Moving forward, the focus will be on addressing time management issues and ensuring that all tasks align with the final release deadline. The team is focused on keeping things organized and making the most of our time to stick to the project’s development schedule.
 
+### Project Log Team Relfection Week 6:
+####  What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+Our communication was solid this week. We're bug testing collaboratively with improved communication. Despite some setbacks where our team was busy with other work, we were able to communicate and meet our project goals in the timeframe.
+#### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+The main issue we ran into was the absence of our artist Donald Long, which put pressure on the rest of the team to fulfill the artist role's obligations. This unfortunately affected the quality of our work across the board, and hampered our ability to meet all of our project's goals for the game's art.
+#### How were the previous evalutions integrated into the latest stage?
+Our team improved communication even more, allowing us to communicate and give each other feedback about each other's work. This improved the game's overall design as we were able to collaborate on more of its aspects.
+#### What would you do differently to improve the collaboration or development process?
+In future, we would improve the development process by collaborating more on the implementation of certain features earlier. For example, we would discuss how a certain feature would be implemented instead of simply assigning the feature's implementation to one solo developer.
+#### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+Later on in the development, our level designer found other tools in Unreal Engine that may have helped him to design the level in a more efficient manner. Next time, he would prefer to start level development using tools like quixel to improve his process.
+
